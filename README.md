@@ -1,6 +1,6 @@
 # Hi, I'm Syeda Mashal Zahra 👋
 
-### AI Student | AI Chatbot Developer | Web Developer
+### AI Student | AI Chatbot Developer 
 
 I'm an Artificial Intelligence student passionate about building practical AI-powered applications and modern web experiences.
 
